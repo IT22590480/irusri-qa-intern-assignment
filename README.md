@@ -69,7 +69,7 @@ Before running the automation test, make sure the following are available:
 Clone the repository:
 
 ```bash
-git clone <your-github-repository-link>
+git clone <https://github.com/IT22590480/irusri-qa-intern-assignment.git>
 ```
 
 Navigate to the project folder:
